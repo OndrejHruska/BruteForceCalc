@@ -1,0 +1,10 @@
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\bin\Debug\BruteForceCalc.exe.config
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\bin\Debug\BruteForceCalc.exe
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\bin\Debug\BruteForceCalc.pdb
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.Form1.resources
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.Properties.Resources.resources
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.csproj.GenerateResource.cache
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.csproj.CoreCompileInputs.cache
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.exe
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.pdb
+G:\Brute_Force_Calc\BruteForceCalc\BruteForceCalc\obj\Debug\BruteForceCalc.csproj.AssemblyReference.cache
